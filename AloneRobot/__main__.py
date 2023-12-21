@@ -799,7 +799,7 @@ def get_help(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="👤 ᴏᴩᴇɴ ɪɴ ᴩʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ",
-                            url="https://t.me/{}?start=help".format(context.bot.username),
+                            ,
                         )
                     ],
                     [
@@ -1044,7 +1044,7 @@ def main():
                 [
                     [
                         InlineKeyboardButton(
-                            text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ jana ➕",
+                            text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ᴊᴀɴᴀ ➕",
                             url="https://t.me/Ashif903?startgroup=true"
                             )
                        ]
