@@ -63,7 +63,7 @@ async def rm_deletedacc(show):
                 await sleep(1)
         if del_u > 0:
             del_status = (
-                f"**Searching...** `{del_u}` **Deleted account/Zombie On this group,"
+                f"**wait meri jan** `{del_u}` **Deleted account/Zombie On this group,"
                 "\nClean it with command** `/zombies clean`"
             )
         return await kontol.edit(del_status)
