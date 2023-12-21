@@ -38,7 +38,7 @@ def can_restrict(func: Callable) -> Callable:
         check = await pbot.get_chat_member(message.chat.id, message.from_user.id)
         if check.status not in [ChatMemberStatus.OWNER, ChatMemberStatus.ADMINISTRATOR]:
             return await message.reply_text(
-                "» ʏᴏᴜ'ʀᴇ ɴᴏᴛ ᴀɴ ᴀᴅᴍɪɴ ʙᴀʙʏ, ᴘʟᴇᴀsᴇ sᴛᴀʏ ɪɴ ʏᴏᴜʀ ʟɪᴍɪᴛs."
+                "» ʏᴏᴜ'ʀᴇ ɴᴏᴛ ᴀɴ ᴀᴅᴍɪɴ ᴄʜᴜᴛɪʏᴀ ᴀᴅᴍɪɴ ʙᴀᴀᴀɴ ᴘᴇʜᴇʟᴇ, ᴘʟᴇᴀsᴇ sᴛᴀʏ ɪɴ ʏᴏᴜʀ ʟɪᴍɪᴛs."
             )
 
         admin = (
