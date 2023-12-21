@@ -7,12 +7,12 @@ class Config(object):
     API_ID = "" # integer value, dont use ""
     API_HASH = ""
     TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 6079943111 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_ID = 5099049612 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     
-    SUPPORT_CHAT = "AlonesHeaven"  # Your own group for support, do not add the @
-    START_IMG = ""
+    SUPPORT_CHAT = "bestodisha"  # Your own group for support, do not add the @
+    START_IMG = "https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIFmmWC60q-Ny8mfifiU25wQP_bRJx7AAIQvjEb7IMZVAABp8jv_Jx82wEAAwIAA3kAAzME"
     EVENT_LOGS = ()  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
-    MONGO_DB_URI= ""
+    MONGO_DB_URI= "mongodb+srv://xqueenserver:ashif9034@cluster0.z6zufce.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
     DATABASE_URL = ""  # A sql database url from elephantsql.com
     CASH_API_KEY = (
