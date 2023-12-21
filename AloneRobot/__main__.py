@@ -88,7 +88,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ",
+            text="Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ jana",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
@@ -101,7 +101,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="Bᴏᴛ Iɴғᴏ", callback_data="alone_"),
-        InlineKeyboardButton(text="Sᴏᴜʀᴄᴇ", callback_data="source_"),
+        InlineKeyboardButton(text="Sᴏᴜʀᴄᴇ", url=f"tg://user?id={OWNER_ID}"),
     ],
     
 
@@ -111,9 +111,9 @@ HELP_STRINGS = f"""
 » *{BOT_NAME}  ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ*"""
 
 DONATE_STRING = f"""ʜᴇʏ ʙᴀʙʏ,
-  ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
+  ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴄʜᴜᴛɪʏᴀ.
 
-ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ @ALONE\_WAS\_BOT ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ @AloneXBots ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ @ashif\903\BOT ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ @Ashif903 ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -394,7 +394,7 @@ def Alone_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="Sᴏᴜʀᴄᴇ",
-                            callback_data="source_",
+                            url=f"tg://user?id={OWNER_ID}"
                         ),
                     ],
                     [
@@ -423,7 +423,7 @@ def Alone_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="Sᴏᴜʀᴄᴇ",
-                            callback_data="source_",
+                            url=f"tg://user?id={OWNER_ID}"
                         ),
                     ],
                     [
@@ -576,7 +576,7 @@ Yᴏᴜ ᴄᴀɴ ʜᴇʟᴘ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ 
             reply_markup=InlineKeyboardMarkup(
                 [ 
                     [
-                        InlineKeyboardButton(text="• Dᴏɴᴀᴛᴇ •", url="https://t.me/AloneXBots"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", callback_data="alone_support")
+                        InlineKeyboardButton(text="• Dᴏɴᴀᴛᴇ •", url="https://t.me/Ashif903"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", callback_data="alone_support")
                     ]
                 ]
             ),
@@ -1044,8 +1044,8 @@ def main():
                 [
                     [
                         InlineKeyboardButton(
-                            text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ➕",
-                            url="https://t.me/AloneXRobot?startgroup=true"
+                            text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ jana ➕",
+                            url="https://t.me/Ashif903?startgroup=true"
                             )
                        ]
                 ]
@@ -1058,7 +1058,7 @@ def main():
                 caption=f"""
 ✨ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.
 ━━━━━━━━━━━━━
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ [ᴧŁꪮɳᴇ](https://t.me/ALONE_WAS_BOT)**
+**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ [ᴧsif](https://t.me/Ashif903)**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ:** `{telever}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{tlhver}`
