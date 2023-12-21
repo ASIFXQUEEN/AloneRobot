@@ -88,7 +88,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ jana",
+            text="Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ᴊᴀɴᴀ",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
@@ -414,7 +414,7 @@ def Alone_about_callback(update: Update, context: CallbackContext):
                             text="Sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="Uᴩᴅᴀᴛᴇs", url=f"\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x2E\x6D\x65\x2F\x41\x6C\x6F\x6E\x65\x58\x42\x6F\x74\x73"
+                            text="Uᴩᴅᴀᴛᴇs", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                     ],
                     [
