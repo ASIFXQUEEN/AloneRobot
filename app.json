@@ -1,14 +1,14 @@
 {
-    "name": "Alone Robot",
-    "description": "Telegram Group Management Bot.",
-    "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
+    "name": "Asif Robot",
+    "description": "Telegram Group Machod ne wala  Bot.",
+    "logo": "https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIFmmWC60q-Ny8mfifiU25wQP_bRJx7AAIQvjEb7IMZVAABp8jv_Jx82wEAAwIAA3kAAzME",
     "keywords": [
        "telegram",
        "modular",
        "group",
        "manager"
     ],   
- "repository": "https://github.com/TeamAloneOp/AloneRobot",
+ "repository": "https://t.me/ashif903",
  "stack": "heroku-22",
  "addons": [
     {
