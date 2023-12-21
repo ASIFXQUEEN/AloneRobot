@@ -1,6 +1,6 @@
-<h1 align="center">Aʟᴏɴᴇ Rᴏʙᴏᴛ</h1>
+<h1 align="center">Asif Rᴏʙᴏᴛ</h1>
 <p align="center">
-  <img src="https://github.com/TeamAloneOp/AloneRobot/blob/main/AloneRobot/resources/alone.jpg">
+  <img src="https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIFmmWC60q-Ny8mfifiU25wQP_bRJx7AAIQvjEb7IMZVAABp8jv_Jx82wEAAwIAA3kAAzME">
 </p>
 <p align="center">
 <a href="https://github.com/TeamAloneOp/AloneRobot/stargazers"><img src="https://img.shields.io/github/stars/TeamAloneOp/AloneRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -14,9 +14,9 @@
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
-<h2 align="center">Aʟᴏɴᴇ Rᴏʙᴏᴛ </h2>
+<h2 align="center">Asif Rᴏʙᴏᴛ </h2>
 
-<h4>ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <a href="https://t.me/AloneXRobot">ᴀʟᴏɴᴇ ʀᴏʙᴏᴛ</a>
+<h4>ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <a href="https://t.me/ashif903">ᴀsif ʀᴏʙᴏᴛ</a>
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ​...</h4>
 ━━━━━━━━━━━━━━━━━━━━━━
 <h2 align="center"> 
@@ -33,7 +33,7 @@
 
 <h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀</h2> 
 ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamAloneOp/AloneRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/ASIFXQUEEN/AloneRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  ━━━━━━━━━━━━━━━━━━━━
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs/ʟᴏᴄᴀʟ 」─
@@ -44,7 +44,7 @@
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3>
 
-- Get your [Necessary Variables](https://github.com/TeamAloneOp/AloneRobot/blob/main/AloneRobot/config.py)
+- Get your [Necessary Variables](https://github.com/ASIFXQUEEN/AloneRoobt)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -72,7 +72,7 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/5ab0e91166940c796f7dc.jpg">
+  <img src="https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIFmmWC60q-Ny8mfifiU25wQP_bRJx7AAIQvjEb7IMZVAABp8jv_Jx82wEAAwIAA3kAAzME">
 </p>
 
 
@@ -121,6 +121,6 @@ async def some_function(_, message):
 
 ━━━━━━━━━━━━━━━━━━━━
 ### ㅤㅤㅤㅤᴄʀᴇᴅɪᴛs 
- [ Aʟᴏɴᴇ ](https://t.me/ALONE_WAS_BOT)
+ [ Asif ](https://t.me/Ashif903)
 
 ━━━━━━━━━━━━━━━━━━━━
